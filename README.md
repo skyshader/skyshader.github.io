@@ -1,4 +1,4 @@
 skyshader.github.io
 ===================
 
-My personal blog.
+My github page.
